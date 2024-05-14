@@ -31,3 +31,12 @@ body{
     color: #fff ;
     
 }
+.igri{
+    color: #343a40;
+    position: relative;
+    top:-55;
+    border: 10px solid #f2f2f2;;
+    background-color: #f2f2f2;
+    
+
+}
