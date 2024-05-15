@@ -1,0 +1,45 @@
+
+.resimslide{
+    height: 700px;
+}
+body{
+    font-family: "Jaro", sans-serif;
+}
+.hakkimda{
+    background-color: #f2f2f2;
+}
+.çizgi{
+    
+    border: none;
+    border-top: 3px solid black;
+    
+    margin: 25px;
+}
+    
+
+.Antalya{
+    background-color: darkblue;
+    padding: 3px;
+ background-image:url('https://i.pinimg.com/originals/49/a2/25/49a22556d0e3a55925a662ecccf336ae.jpg');
+ 
+ color:aliceblue;
+}
+.navbar{
+    background-color: black;
+}
+.nav-link{
+    color: #fff ;
+    
+}
+.igri{
+    color: #343a40;
+    position: relative;
+    top:-55;
+    border: 10px solid #f2f2f2;;
+    background-color: #f2f2f2;
+    
+
+}
+.gezilecekyer{
+    background-color: ghostwhite;
+}
